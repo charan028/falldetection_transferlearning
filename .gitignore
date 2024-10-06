@@ -1,0 +1,9 @@
+train_model/vgg16.pt
+train_model/vgg16_finetuned.pt
+train_model/vgg19.pt
+train_model/vgg19_finetuned.pt
+
+train_model/fdnet.pttrain_model/*.pt
+train_model/*.pt
+code/train_model/*.pt
+train_model/*.pt
