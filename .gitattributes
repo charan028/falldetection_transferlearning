@@ -1,0 +1,5 @@
+train_model/vgg19.pt filter=lfs diff=lfs merge=lfs -text
+train_model/vgg19_finetuned.pt filter=lfs diff=lfs merge=lfs -text
+train_model/vgg16.pt filter=lfs diff=lfs merge=lfs -text
+train_model/vgg16_finetuned.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
